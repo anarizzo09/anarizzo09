@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anarizzo09
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python at university
+- 🌱 I've learned Python, Java and C so far in college
 - 💞️ I’m looking to collaborate on works, research, games
 - 📫 How to reach me anarizzo255@gmail.com
 
